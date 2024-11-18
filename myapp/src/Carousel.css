@@ -1,0 +1,28 @@
+.slide_box{
+    height: 90vh;
+    width: 90%;
+    /* background-color: aquamarine; */
+    display: flex;
+}
+.box2{
+    height: 90vh;
+    width: 50%;
+    /* background-color: blueviolet; */
+    float: right;
+    margin-left: 20px;
+    margin-top: 60px;
+    justify-content: center;
+    text-align: start;
+    color: white;
+}
+.box2 h3{
+    border-bottom: yellow;
+}
+
+.box2 p{
+    font-size: 16px;
+}
+.box2 p i{
+    color: yellow;
+    font-size: 20px;
+}

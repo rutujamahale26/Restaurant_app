@@ -1,0 +1,24 @@
+
+.fix{
+    height: 100vh;
+    width: 100%;
+    background-image: url('../public/Assets/10025.jpg');
+    background-attachment: fixed;
+    
+}
+.blur{
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(34, 31, 31, 0.7);
+}
+ .carousel-item img{
+    height: 450px;
+    width: 150px;
+ }
+
+ .fix_2{
+    height: 50vh;
+    width: 100%;
+    background-color: grey;
+    margin-top: 30px;
+ }

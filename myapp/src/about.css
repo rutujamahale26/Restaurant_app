@@ -1,0 +1,39 @@
+.box1{
+    height: 100px;
+    width: 550px;
+    border: 5px solid rgb(97, 95, 95);
+    margin-top: 0px;
+    margin-left: 50px;
+    float: left;
+    z-index: -1;
+
+}
+.img{
+    height: 100vh;
+    width: 100%;
+    /* border: 2px solid red; */
+}
+.content{
+    height: 400px;
+    width: 500px;
+    /* border: 2px solid black; */
+    float: left;
+    margin-left: 70px;
+  
+}
+.content p{
+    font-size: 18px;
+    
+}
+.content i{
+    color: rgb(214, 40, 40) ;
+    font-size: 18px;
+}
+.vedio iframe{
+    height: 200px;
+    width: 500px;
+    margin-top: 10px;
+    /* border: 2px solid black; */
+   position: fixed;
+    
+}

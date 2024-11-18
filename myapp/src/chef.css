@@ -1,0 +1,11 @@
+.reviews{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../public/Assets/bg1.jpg);
+    margin-top: 40px;
+}
+.blur_2{
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(34, 31, 31, 0.7);
+}

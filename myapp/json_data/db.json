@@ -1,0 +1,77 @@
+{
+  "Userdata": [
+    {
+      "name": "Rutuja Mahale",
+      "email": "rutuja@gmail.com",
+      "subject": "query",
+      "message": "kjwefig",
+      "id": "1"
+    },
+    {
+      "name": "amol mahale",
+      "email": "amol@gmail.com",
+      "subject": "query",
+      "message": "hello",
+      "id": "2"
+    },
+    {
+      "name": "amol",
+      "email": "amol@gmail.com",
+      "phone": "8789709",
+      "date": "2024-09-05",
+      "time": "07:26",
+      "people": "7",
+      "message": "hello",
+      "id": "3"
+    },
+    {
+      "name": "rutuja",
+      "email": "rutuja@gmai.com",
+      "subject": "no",
+      "message": "hbjhb",
+      "id": "4"
+    }
+  ],
+  "tableData": [
+    {
+      "name": "amol",
+      "email": "amol@gmail.com",
+      "phone": "8789709",
+      "date": "2024-09-05",
+      "time": "07:26",
+      "people": "7",
+      "message": "hello",
+      "id": "3"
+    },
+    {
+      "name": "Trishan Mahale",
+      "email": "trishan@gmail.com",
+      "phone": "878575890",
+      "date": "2024-09-05",
+      "time": "23:18",
+      "people": "8",
+      "message": "hello",
+      "id": "4"
+    },
+    {
+      "id": "eb4d",
+      "name": "Trishan Mahale",
+      "email": "trishan@gmail.com",
+      "phone": "76349867489",
+      "date": "2024-09-11",
+      "time": "00:44",
+      "people": "5",
+      "message": "thank you!"
+    },
+    {
+      "id": "f389",
+      "name": "amol Mahale",
+      "email": "amol@gmail.com",
+      "phone": "76349867489",
+      "date": "2024-09-11",
+      "time": "00:44",
+      "people": "5",
+      "message": "thank you!"
+    }
+  ]
+}

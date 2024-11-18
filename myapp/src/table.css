@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.table{
+    height: 80vh;
+    width: 100%;
+    /* background-color: rgb(218, 211, 211); */
+    display: flex;
+
+}
+.t1{
+    height: 80vh;
+    width: 35%;
+    
+}
+.t2{
+    height: 80vh;
+    width: 70%;
+    /* background-color: rgb(218, 211, 211); */
+}
